@@ -3,7 +3,9 @@ Documenting APS360 coursework and final Project
 
 
 ## Project Description - Weather Forecasting with RNN 
+
 Link to Colaboratory notebook: [Here](https://colab.research.google.com/github/MEGmax/APS360-Team-0/blob/main/APS360_Team0_WeatherForcastingModel.ipynb)
+
 This project aims to develop a model to accurately predict weather patterns based
 on historical weather and climate data. A recurrent neural network (RNN) will
 be leveraged to analyse the sequential and pattern based nature of the weather to
